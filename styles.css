@@ -1,0 +1,157 @@
+body {
+    width: 100%;
+    margin:0 auto;
+    background: hsl(217, 54%, 11%);
+    font-family: Outfit, sans-serif;
+    font-size: 18px;
+}
+
+.content {
+    width:315px;
+    height: auto;
+    margin: 3% auto;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: left;
+    background: hsl(216, 50%, 16%);
+
+    }
+
+a {
+    text-decoration: none;
+}
+
+#nft-img:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+
+
+a:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+footer a:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+a:visited {
+    color: white;
+}
+/* 
+.e-img {
+    background-image: url(./images/image-equilibrium.jpg);
+} */
+
+#image-container{
+    margin-bottom: 10px;
+    height: 300px;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./images/image-equilibrium.jpg);
+    border-radius: 15px;
+}
+
+
+h1 {
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+h1 a:hover{
+    color: hsl(178, 100%, 50%)
+}
+
+
+.showme {
+    display: none;
+    background-color: hsl(178, 100%, 50%, 0.3);
+    border-radius: 15px;
+    /* opacity: 0.25; */
+    align-items: center;
+
+  }
+
+
+.showme img{
+    display: block;
+    padding-top: 44%;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    /* position: relative;
+    top: 50%;
+    bottom: 50%;
+    right: 50%;
+    left: 50%; */
+    
+    
+
+}
+.showhim:hover .showme {
+display: block;
+height: 300px;
+width: auto;
+background-repeat: inherit;
+cursor: pointer;
+}
+
+
+.content p {
+    margin-bottom: 25px;
+    color: hsl(215, 51%, 70%);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+aside {
+    display: inline;
+}
+
+.eth {
+    text-align: left;
+    color: hsl(178, 100%, 50%);
+}
+
+.days {
+    margin-left: 100px;
+    color:hsl(215, 51%, 70%)
+}
+
+.etherum {
+    position:relative;
+    top:2px;
+    margin-right: 3px;
+
+}
+
+.clock {
+    position:relative;
+    top:3px;
+}
+
+.line {
+    margin-top: 20px;
+    height: 1px;
+    background-color:hsl(215, 32%, 27%) ;
+}
+
+
+
+footer p {
+     margin: -19px 0 10px 65px;
+}
+
+
+
+.avatar {
+    width: 40px;
+    border: white solid 1px;
+    border-radius: 50%;
+    position: relative;
+    top: 17px;
+
+}

@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 😁😁
-![Solution screenshot](/images/screenshot.png)
+![Solution screenshot](/images/screenshot.PNG)
 When in active state Users will be able to see hover state for interactive element 
 ![Active state](/images/active-states.jpg)
 
